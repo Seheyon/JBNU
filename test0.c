@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-	printf("changed");
+	printf("third changed");
 	return 0;
 }
